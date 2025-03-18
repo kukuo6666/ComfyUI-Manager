@@ -1,6 +1,17 @@
 {
     "custom_nodes": [
         {
+            "author": "kukuo6666",
+            "title": "ComfyUI Equirectangular Tools",
+            "id": "comfyui-equirect",
+            "reference": "https://github.com/kukuo6666/ComfyUI-Equirect",
+            "files": [
+                "https://github.com/kukuo6666/ComfyUI-Equirect"
+            ],
+            "install_type": "git-clone",
+            "description": "Tools for processing equirectangular images, supporting conversion from equirectangular format to cubemap."
+        },
+        {
             "author": "Dr.Lt.Data",
             "title": "ComfyUI-Manager",
             "id": "manager",
